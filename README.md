@@ -1,6 +1,6 @@
 # [Python+GUI] Propagation of electromagnetic field in ideal medium and ideal conductor
 
-![1593480015430](README.assets/1593480015430.png)
+![1594729619345](README.assets/1594729619345.png)
 
 ### Get start:
 
